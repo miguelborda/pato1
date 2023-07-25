@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Miguel desde casa
                 </div>
 
                 <div class="links">
