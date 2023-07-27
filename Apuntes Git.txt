@@ -80,3 +80,5 @@ git log  		--> muestra todos los commits
 git pull origin master  --> descarga todos los cambios realizados en el repositorio
 
 
+git clone https://github.com/miguelborda/pato1.git   --> clona un repositorio entero
+
